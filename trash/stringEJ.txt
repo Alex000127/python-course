@@ -1,0 +1,20 @@
+    Longitud de una cadena:
+    Pide al usuario que ingrese una cadena y luego muestra la longitud de esa cadena.
+
+    Mayúsculas o minúsculas:
+    Pide al usuario que ingrese una frase y luego muestra esa frase en mayúsculas y en minúsculas.
+
+    Concatenación de nombres:
+    Pide al usuario que ingrese su primer nombre y su apellido por separado, luego concatena estos valores para mostrar el nombre completo.
+
+    Reemplazo de caracteres:
+    Pide al usuario que ingrese una frase y luego pide que ingrese un carácter para reemplazar y el carácter de reemplazo. Realiza el reemplazo en la frase y muestra el resultado.
+
+    Contador de caracteres:
+    Pide al usuario que ingrese una frase y luego pide que ingrese un carácter. Cuenta cuántas veces aparece ese carácter en la frase.
+
+    Reversión de una cadena:
+    Pide al usuario que ingrese una palabra o frase y luego muestra esa palabra o frase al revés.
+
+    Palíndromo:
+    Pide al usuario que ingrese una palabra y verifica si es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).
